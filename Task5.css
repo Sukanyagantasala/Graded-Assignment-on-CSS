@@ -1,0 +1,35 @@
+html,body{
+    height:100%;
+    width:100%;
+    background-color: aquamarine;
+}
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    font-size: 30px;
+    font-style: oblique;
+    color:#0A6EBD;
+
+}
+body {
+    color:#6C3428;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 458px;
+    height: 457px;
+    border: 2px solid black;
+}
+.img{
+    border-image: 10px solid #555;
+    display: flex;
+    transition: transform 0.8s ease-in-out;
+}
+img:hover{
+    transform:scale(1.2);
+}
