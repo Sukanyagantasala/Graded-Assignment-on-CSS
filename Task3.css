@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task3</title>
+    <link rel="stylesheet" href="task3.css">
+</head>
+<body>
+    <div class="container">
+    <div class="img1">
+    <img src="naturelogo.jpg">
+    </div>
+    <div class="p1">
+        <p>Spending time in nature also inspires a sense of awe.</p>
+    </div>
+    <div class="p2">
+        <p>Slowing down is one of the requirements for appreciating nature. Before you can see beauty, you have to stop and look for it. Pay attention whenever you're outside and practice slowing down your body and brain.</p>
+    </div>
+  </div>
+</body>
+</html>
